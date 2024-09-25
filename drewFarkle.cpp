@@ -2,6 +2,7 @@ using namespace std;
 
 #include <iostream>
 #include <vector>
+#include <time.h>
 
 // author - drew bogdan
 // enjoy :)
